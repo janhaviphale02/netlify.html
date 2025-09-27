@@ -1,0 +1,37 @@
+body{background-color: #CAF0F8;}
+
+h1{
+    text-align:center;
+    color:blue
+}
+
+
+
+#headingOne{color:rgb(49, 49, 156);
+            text-decoration: underline;}
+#headingTwo{color:rgb(69, 5, 82);
+            text-decoration:wavy;}
+#headingThree{color:rgb(184, 7, 184)}
+
+p{
+    color:white;
+    background-color:#48CAE4;
+}
+
+
+button{
+    color:#05baf7;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration:dotted;
+}
+
+
+
+div{
+    width:1500px;
+    height:1500px;
+    margin:25px;
+    padding:25px;
+    display:inline;
+}
